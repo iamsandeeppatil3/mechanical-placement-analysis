@@ -37,4 +37,17 @@ The data was collected by Training and Placement Cell from the individual studen
 	ii. No. of Offers Pivot Table: Contains Unique values of Number of Offers per Student and Frequency of Students.
 	iii. Nature of Placemant Pivot Table: Contains Unique values of Nature of Placement(InCampus/OffCampus) and Count of Students.
 
-Findings and Conclusion:
+##Visualization:
+Tool used for plotting charts and creating dashboards was PowerBI. 
+Charts plotted were:
+1. Average Package Offered vs Companies,
+2. Offers Made vs Companies,
+3. Nature of Placement by Placed Students,
+4. Number of Offers per Student by Placed Students.
+A drop down filter was added to review the charts according to the companies.
+
+##Findings and Conclusion:
+1. It was found that the recruiter Cognizant hired the maximum number of students(15) in the year of 2022-23. The numbers of offers made by recruiters in decreasing order are, L&T Infotech, Hind Rectifiers, Kohler, TCS, Camgemini, Forvia Faurecia, Neilsoft, Reliance Industries Ltd.
+2. The average pakage was offered by Forvia Faurecia & Reliance Industries Ltd.(5.5Lakhs INR pa). Companies in decreasing order of their average packages are Kohler, Capgemini, L&T Infotech, Cognizant, TCS, Hind Rectifiers, Neilsoft.
+3. Of all the 49 placed students, 91.61% ie 44 students were recruited via incampus companies.
+4. Majority of the students had a single offer from a particular company. Though 3 students had offers from two different companies. 
