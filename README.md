@@ -102,6 +102,9 @@ Charts plotted were:
 4. Number of Offers per Student by Placed Students.
 A drop down filter was added to review the charts according to the companies.
 
+![Screenshot (101)](https://github.com/iamsandeeppatil3/mechanical-placement-analysis/assets/60236271/413eac7d-d1a5-4124-9dc3-843443e9b601)
+
+
 
 ## Findings and Conclusion:
 1. It was found that the recruiter Cognizant hired the maximum number of students(15) in the year of 2022-23. The numbers of offers made by recruiters in decreasing order are, L&T Infotech, Hind Rectifiers, Kohler, TCS, Camgemini, Forvia Faurecia, Neilsoft, Reliance Industries Ltd.
